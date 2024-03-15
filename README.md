@@ -1,14 +1,9 @@
 Hi 👋 My name is G. D.
 ======================
 
-FullStack Developer
+Developer
 --------------------
 
-I am learning Full stack development and have keen interest in cloud computing. I am currently working towards making React apps and on cloud front I am looking forward to getting Az-204 Azure certified Developer certification by this year end.
-
-*   🌍  I'm based in Helsinki
-*   🧠  I'm learning React, Redux, JavaScript
-*   🤝  I'm open to collaborating on FullStack projects
 ### Skills 
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
