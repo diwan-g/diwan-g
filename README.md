@@ -1,4 +1,4 @@
-Hi 👋 My name is G. D.
+Hi 👋 
 ======================
 
 Developer
