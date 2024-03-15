@@ -1,7 +1,7 @@
 Hi 👋 
 ======================
 
-Developer
+iOS Developer
 --------------------
 
 ### Skills 
