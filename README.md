@@ -36,7 +36,7 @@ I am learning Full stack development and have keen interest in cloud computing. 
                           
 <a href="https://www.github.com/diwan-g" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 ### Badges
-<a href="https://github.com/diwan-g" align="left"><img src="https://github-readme-stats-mu-lime-34.vercel.app/api/top-langs/?username=diwan-g&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/diwan-g" align="left"><img src="https://github-readme-stats-git-master-gdiwans-projects.vercel.app/api/top-langs/?username=diwan-g&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Certifications
 <a href="https://www.credly.com/badges/a3e6fe04-3bee-4b05-a7c8-31cf5732455b/public_url"><img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="32" height="32" />Microsoft Certified: Azure Fundamentals</a>
