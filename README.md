@@ -5,15 +5,13 @@ Hi 👋
 
 --------------------
 
----
-
 ### 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
 ---
-### 📂 Featured Project
+## 📂 Featured Project
 
 #### [🚀 Retail Store Data Pipeline on Databricks](https://github.com/diwan-g/retail-store-data-pipeline)
 > Built to understand end-to-end data pipeline workflows on Databricks.
