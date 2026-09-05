@@ -1,7 +1,7 @@
 Hi 👋 
 ======================
 
-"Junior Data Engineer | Learning Databricks, PySpark, and Delta Lake | Open to opportunities"
+"Learning Microsoft fabric, Azure, Gen AI | Open to opportunities"
 
 --------------------
 
